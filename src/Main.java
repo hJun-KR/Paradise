@@ -1,6 +1,5 @@
 import sceen.*;
 
-
 public class Main {
     public static void main(String[] args) {
         StartSceen.startSceen(); // 시작화면 씬 철력
